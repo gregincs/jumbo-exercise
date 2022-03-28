@@ -1,3 +1,4 @@
+
 # Getting Started
 
 ### Reference Documentation
@@ -10,10 +11,6 @@ Requirements:
 
 ## Starting the application
 In root folder /jumbo-exercise where the file mvnw will be found, run with the command:
-
-    ./mvnw spring-boot:run
-
-or 
 
     mvn spring-boot:run
     
